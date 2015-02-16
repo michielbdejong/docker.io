@@ -10,6 +10,8 @@ Node.JS wrapper for low-level Docker.io HTTP interface
 
 ## Usage
 
+WARNING: This package is not actively being maintained anymore, and does not work with the latest versions of Node and Docker. Please consider using a different package instead (for instance [dockerode](https://github.com/apocas/dockerode)).
+
 ### Using unix sockets (most secure)
 
 ```javascript
